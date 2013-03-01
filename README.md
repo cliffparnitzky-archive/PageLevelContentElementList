@@ -1,5 +1,5 @@
-Contao PageLevelContentElementList Extension
-============================================
+Contao Extension: PageLevelContentElementList
+=============================================
 
 FE Modul for creating a list of content elements of pages in the same level.
 
@@ -23,7 +23,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.9.5
-- max. version: Contao 2.11.6
+- max. version: Contao 2.11.x
 
 
 Dependency
